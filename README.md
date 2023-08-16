@@ -1,4 +1,5 @@
 # DL-Practice
+
 My DL Practice code:
 + Irish song generate with LSTM
 + Shakespeare porus generate with LSTM
